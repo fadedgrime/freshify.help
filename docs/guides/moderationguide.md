@@ -2,7 +2,7 @@
 title: Moderation Guide
 layout: default
 nav_order: 6
-has_children: true
+parent: Guides
 permalink: /moderation_guide
 ---
 
