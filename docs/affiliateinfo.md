@@ -3,6 +3,7 @@ title: Affiliate Information
 layout: default
 nav_order: 4
 parent: Public Information
+permalink: /affiliate_info
 ---
 
 # Affiliate Information

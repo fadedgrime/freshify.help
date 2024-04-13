@@ -1,8 +1,9 @@
 ---
 title: Frequently Asked Questions
 layout: default
-nav_order: 3
+nav_order: 5
 parent: Public Information
+permalink: /faq
 ---
 
 # Frequently Asked Questions
