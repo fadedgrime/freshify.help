@@ -17,22 +17,22 @@ Executive Director of Freshify
 ## Scripted_Connor
 {: .text-red-200 }
 
-Managing Director of Freshify
+Operations Director of Freshify
 
 ## GalaxFireCool
 {: .text-red-200 }
 
-Managing Director of Freshify
+Operations Director of Freshify
 
 ## kidsplaynm10280_alt
 {: .text-red-200 }
 
-Managing Director of Freshify
+Operations Director of Freshify
 
 ## legion_blu
 {: .text-red-200 }
 
-Operations Director of Freshify
+Managing Director of Freshify
 
 
 
