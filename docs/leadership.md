@@ -3,6 +3,7 @@ title: Leadership
 layout: default
 nav_order: 3
 parent: Public Information
+permalink: /leadership
 ---
 
 # Leadership
