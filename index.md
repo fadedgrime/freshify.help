@@ -10,7 +10,7 @@ Freshify Support is now accessible through freshify.help, enhancing the accessib
 Freshify stands as a distinguished corporate supermarket, celebrated for its everyday affordable prices—the cornerstone of our brand. Renowned for its meticulously curated array of premium products catering to diverse tastes, our commitment to delivering exceptional customer service ensures an unforgettable shopping experience for every visitor.
 
 ## View our documentation
-For more information, review Freshify Support documents.
+For more information, review Freshify Support documents in the navigation pane or by using the search bar.
 
 ## Contact our Corporate Team for Support
 If you can't find the answer to your question or need assistance, please visit our [Discord](https://discord.gg/freshify) and navigate to the [#support](https://discord.com/channels/1206349742624473098/1206384658762432552) channel.
